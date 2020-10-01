@@ -4,9 +4,9 @@
 
 #### I'm a Front-end Developer, with a weird mind from 🇨🇴.
 
-- 🏢 I'm currently working at **Condor Labs**.psd
+- 🏢 I'm currently working at **Condor Labs**
 - ⚙️ I use daily: `.rb`, `.js`, `.html`, `.css`, `.go`
-- 🌍 I'm mostly active within the **Laravel Community**
+- 🌍 I'm mostly active within the **Cartagena Tech Community**
 - 🌱 Learning all about **UI/UX Design**
 - 📫 Reach me: 
   - [twitter.com/cloubyy](https://twitter.com/cloubyy)
