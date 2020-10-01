@@ -12,4 +12,5 @@
   - [twitter.com/cloubyy](https://twitter.com/cloubyy)
   - [instagram.com/cloubyy](https://instagram.com/cloubyy)
   - <celb25@gmail.com>
-- ⚡️ Fun fact: I'm a huge fan of HP Lovecraft
+- ⚡️ A good fact: I'm a big fan of HP Lovecraft stories.
+- ✍️ Another Passion: Write a simple but contagious poetry.
