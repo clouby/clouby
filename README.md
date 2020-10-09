@@ -9,8 +9,8 @@
 - 🌍 I'm mostly active within the **Cartagena Tech Community**
 - 🌱 Learning all about **UI/UX Design**
 - 📫 Reach me: 
-  - [twitter.com/cloubyy](https://twitter.com/cloubyy)
-  - [instagram.com/cloubyy](https://instagram.com/cloubyy)
+  - [twitter/cloubyy](https://twitter.com/cloubyy)
+  - [instagram/cloubyy](https://instagram.com/cloubyy)
   - <celb25@gmail.com>
 - ⚡️ A good fact: I'm a big fan of HP Lovecraft stories.
 - ✍️ Another Passion: Write a simple but contagious poetry.
