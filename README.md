@@ -7,7 +7,7 @@
 - 🏢 I'm currently working at **Condor Labs**
 - ⚙️ I use daily: `.rb`, `.js`, `.html`, `.css`, `.go`
 - 🌍 I'm mostly active within the **Cartagena Tech Community**
-- 🌱 Learning all about **UI/UX Design**
+- 🌱 Learning all about **UI/UX and Bots**
 - 📫 Reach me: 
   - [twitter/cloubyy](https://twitter.com/cloubyy)
   - [instagram/cloubyy](https://instagram.com/cloubyy)
