@@ -4,7 +4,7 @@
 
 #### I'm a Front-end Developer, with a weird mind from 🇨🇴
 
-- 🏢 I'm currently working at **UruIT**
+- 🏢 I'm currently working at **Huge Inc**
 - ⚙️ I use daily: `.rb`, `.js`, `.html`, `.css`, `.go`
 - 🌍 I'm mostly active within the **Cartagena Tech Community**
 - 🌱 Learning all about **UI/UX and Bots**
