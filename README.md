@@ -1,7 +1,7 @@
 ### Hey humanoids 👋🏼, I'm Carlos
 ![](https://komarev.com/ghpvc/?username=clouby&color=blueviolet)
 
-#### I'm a Software Crafter, with a weird mind from 🇨🇴
+#### I'm a crafter to binary languages, with a weird mind from 🇨🇴
 
 - 🏢 I'm currently working at **Huge Inc**
 - ⚙️ I use daily: `.rb`, `.js`, `.html`, `.css`, `.go`
