@@ -3,7 +3,7 @@
 
 [![@clouby's Holopin board](https://holopin.io/api/user/board?user=clouby)](https://holopin.io/@clouby)
 
-#### My name is Carlos, I'm a crafter to binary languages, with a weird mind from 🇨🇴
+#### My name is Carlos, I'm a crafter to binary languages from 🇨🇴
 
 - 🏢 I'm currently working at **Huge Inc**
 - ⚙️ I use daily: `.rb`, `.js`, `.ts`, `.html`, `.css`, `.go`
