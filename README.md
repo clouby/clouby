@@ -13,4 +13,4 @@
   - [twitter/cloubyy](https://twitter.com/cloubyy)
   - [instagram/cloubyy](https://instagram.com/cloubyy)
 - ⚡️ A good fact: I'm a big fan of HP Lovecraft stories.
-- ✍️ Another Passion: Write a simple but contagious poetry.
+- ✍️ Another topic: Write a simple but contagious poetry.
