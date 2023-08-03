@@ -5,7 +5,7 @@
 
 #### My name is Carlos, I'm a crafter to binary languages from 🇨🇴
 
-- 🏢 I'm currently working at **Huge Inc**
+- 🏢 I'm currently working at **Kin + Carta**
 - ⚙️ I use daily: `.rb`, `.js`, `.ts`, `.html`, `.css`, `.go`
 - 🌍 I'm mostly active within the **Cartagena Tech Community**
 - 🌱 Learning all about **DX/UX, Generative Design, AI and Blockchain**
