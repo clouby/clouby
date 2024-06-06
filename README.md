@@ -5,10 +5,10 @@
 
 #### My name is Carlos, I'm a crafter to binary languages from 🇨🇴
 
-- 🏢 I'm currently working at **Kin + Carta**
+- 🏢 I'm currently **looking for a great job**
 - ⚙️ I use daily: `.rb`, `.js`, `.ts`, `.html`, `.css`, `.go`
 - 🌍 I'm mostly active within the **Cartagena Tech Community**
-- 🌱 Learning all about **DX/UX, Generative Design, AI and A11y**
+- 🌱 Learning all about **DX/UX, Generative Design, AI and Blockchain**
 - 📫 Reach me: 
   - [twitter/cloubyy](https://twitter.com/cloubyy)
   - [instagram/cloubyy](https://instagram.com/cloubyy)
