@@ -8,7 +8,7 @@
 - 🏢 I'm currently working at **Kin + Carta**
 - ⚙️ I use daily: `.rb`, `.js`, `.ts`, `.html`, `.css`, `.go`
 - 🌍 I'm mostly active within the **Cartagena Tech Community**
-- 🌱 Learning all about **DX/UX, Generative Design, AI and Blockchain**
+- 🌱 Learning all about **DX/UX, Generative Design, AI and A11y**
 - 📫 Reach me: 
   - [twitter/cloubyy](https://twitter.com/cloubyy)
   - [instagram/cloubyy](https://instagram.com/cloubyy)
