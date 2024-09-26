@@ -1,7 +1,7 @@
 ### Hey humanoids 👋🏼
 ![](https://komarev.com/ghpvc/?username=clouby&color=blueviolet)
 
-[![@clouby's Holopin board](https://holopin.io/api/user/board?user=clouby)](https://holopin.io/@clouby)
+[![An image of @clouby's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/clouby)](https://holopin.io/@clouby)
 
 #### My name is Carlos, I'm a crafter to binary languages from 🇨🇴
 
